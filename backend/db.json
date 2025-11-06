@@ -1,0 +1,6 @@
+{
+    "users":[
+        { "id": 1, "name": "Cícera Ribeiro", "role": "Fullstack Dev", "email": "cicera@zup.com" },
+        { "id": 2, "name": "Maria Lima", "role": "Frontend Dev", "email": "maria@zup.com" } 
+    ]
+}
