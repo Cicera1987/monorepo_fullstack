@@ -1,6 +1,18 @@
 {
     "users":[
         { "id": 1, "name": "Cícera Ribeiro", "role": "Fullstack Dev", "email": "cicera@zup.com" },
-        { "id": 2, "name": "Maria Lima", "role": "Frontend Dev", "email": "maria@zup.com" } 
+        { "id": 2, "name": "Maria Lima", "role": "Frontend Dev", "email": "maria@zup.com" },
+        { "id": 3, "name": "João Pedro", "role": "Fullstack Dev", "email": "j@zup.com" },
+        { "id": 4, "name": "Luiz Lima", "role": "Frontend Dev", "email": "lui@zup.com" },
+        { "id": 5, "name": "Luana Ribeiro", "role": "Fullstack Dev", "email": "lua@zup.com" },
+        { "id": 6, "name": "Camila Lima", "role": "Frontend Dev", "email": "camila@zup.com" },
+        { "id": 7, "name": "Jose Ribeiro", "role": "Fullstack Dev", "email": "jose@zup.com" },
+        { "id": 8, "name": "Ana Lima", "role": "Frontend Dev", "email": "ana@zup.com" },
+        { "id": 9, "name": "Patricio Ribeiro", "role": "Fullstack Dev", "email": "patricio@zup.com" },
+        { "id": 10, "name": "Carlos Lima", "role": "Frontend Dev", "email": "carlos@zup.com" },
+        { "id":11, "name": "Cezar Ribeiro", "role": "Fullstack Dev", "email": "cezar@zup.com" },
+        { "id": 12, "name": "Simone Lima", "role": "Frontend Dev", "email": "simone@zup.com" },
+        { "id": 13, "name": "Eduardo Ribeiro", "role": "Fullstack Dev", "email": "eduard@zup.com" },
+        { "id": 14, "name": "Felipe Lima", "role": "Frontend Dev", "email": "felipe@zup.com" }
     ]
 }

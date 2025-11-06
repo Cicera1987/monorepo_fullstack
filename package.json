@@ -1,0 +1,19 @@
+{
+  "name": "monorepo_fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run start",
+    "mobile": "cd mobile && flutter run",
+    "clean": "cd frontend && rm -rf node_modules .next && cd ../backend && rm -rf node_modules dist && cd ../mobile && flutter clean"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
